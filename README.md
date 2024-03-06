@@ -3,7 +3,12 @@
 
 Clonezilla  => https://clonezilla.org/downloads.php
 
-Rescuezilla => https://rescuezilla.com/download
+Rescuezilla => https://rescuezilla.com/download  
+
+COMO CLONAR O DISCO USANDO O CLONEZILLA - SSD para NVMe - Ubuntu Desktop <br>
+
+https://www.youtube.com/watch?v=U3jbxTY7VMI  <br> <br>
+
 
 Ventoy (cria dispositivos de armazenamento de mídia USB inicializáveis) => https://www.ventoy.net/en/download.html
 
