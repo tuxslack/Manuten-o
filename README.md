@@ -60,20 +60,20 @@ diretamente no setor do disco através da controladora, ao invés de utilizar o 
 antivírus falsos também poderem desabilitar o Shadow Defender e infectar o computador. 
 
 
-https://www.youtube.com/watch?v=0V-nfwaizmk 
-https://www.baboo.com.br/seguranca-digital/dicas-tutoriais-seguranca-digital/shadow-defender-e-deep-freeze/ 
+https://www.youtube.com/watch?v=0V-nfwaizmk   <br>
+https://www.baboo.com.br/seguranca-digital/dicas-tutoriais-seguranca-digital/shadow-defender-e-deep-freeze/   <br>
 
 
 Acervo de drivers do Azarado com mais de 900 GB selecionados para técnicos somente: 
 
-https://www.williamazarado.com/p/drivers-do-azarado.html 
+https://www.williamazarado.com/p/drivers-do-azarado.html   <br>
 
-http://www.williamazarado.com/ 
+http://www.williamazarado.com/   <br>
 
 
 Programas e ISOs (Azarado)
 
-https://www.williamazarado.com/p/programas-e-isos.html
+https://www.williamazarado.com/p/programas-e-isos.html  <br>
 
 
 Drivers
