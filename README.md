@@ -12,7 +12,7 @@ SystemRescueCD (reparar sistemas) => https://www.system-rescue.org/Download/  <b
 PhotoRec  <br>
 Test Disk  <br>
 Anydesk => https://anydesk.com/pt  <br>
-TeamViewer 
+TeamViewer <br>
 
 Fontes do Azarado => https://www.mediafire.com/file_premium/55sylr2a9x3dtw9/Fontes_do_Azarado.rar/file
 
