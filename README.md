@@ -47,11 +47,11 @@ Antivirus: Panda Antivírus, Avast, AVG, Kaspersky Free Antivirus
 https://www.pandasecurity.com/pt/features/antivirus/
 
 
-Congelamento de sistema Windows (solução contra malwares): 
+Congelamento de sistema Windows (solução contra malwares):  <br>
 
-Shadow Defender 
-Deep Freeze (aconselhável para novos Windows) 
-Time Freeze (Toolwiz) - incompatibilidade com os novos Windows 
+Shadow Defender <br>
+Deep Freeze (aconselhável para novos Windows) <br>
+Time Freeze (Toolwiz) - incompatibilidade com os novos Windows  <br>
 
 Sendo útil para terminais públicos (bibliotecas, escolas, LAN House..) e cenários aonde o usuário não deve salvar nenhum arquivo no PC. 
 
